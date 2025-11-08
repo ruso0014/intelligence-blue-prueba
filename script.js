@@ -1,7 +1,7 @@
-// Al hacer clic en el botón, cambia su estilo y abre la URL en nueva pestaña:
+// CLICK> El botón cambia su estilo y abre la URL en nueva pestaña:
 document.addEventListener("DOMContentLoaded", () => {
   const botones = document.querySelectorAll(".cta-btn");
-  const target = "https://www.hubspot.es/";
+  const target = "https://calendar.app.google/3BN2GVFKoHK6DQJn7";
 
   botones.forEach((btn) => {
   btn.addEventListener("click", () => {
