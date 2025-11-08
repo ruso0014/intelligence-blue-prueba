@@ -102,6 +102,8 @@ html, body {
   object-fit: cover;
   object-position: center;
   display: block;
+  -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+  mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
 }
 
 .dolor {
