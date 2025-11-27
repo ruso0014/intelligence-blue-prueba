@@ -400,10 +400,6 @@ h1 {
     align-items: center;
   }
 
-  .dolor {margin-top: 0px;}
-
-  .caja_foto {max-height: 70px;}
-
   .cardgris, .cardgradient {padding: 80px 20px;}
 }
 
@@ -421,10 +417,6 @@ h1 {
     height: 16px;
     margin-right: 10px;
   }
-
-  .dolor {margin-top: 0px;}
-
-  .caja_foto {max-height: 70px;}
 
   .cardgris, .cardgradient {padding: 80px 20px;}
 }
